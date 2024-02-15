@@ -91,8 +91,13 @@ Occasionalmente, anche dopo che tutti i container sono stati avviati con success
 
 # Video Funzionamento Modalità "Sfida un Robot"
 
-[![Anteprima video "Sfida un Robot"](Media/Foto/AnteprimaSfidaRobot.png)](Media/Video/VideoSfidaRobot.mp4)
+https://github.com/SimoneRinaldi02/A7-2024-ver2/assets/115701124/89f519e5-796b-4883-8826-681a0980f16e
 
 # Video Funzionamento Modalità "Allenamento"
 
-[![Anteprima video "Allenamento"](Media/Foto/AnteprimaAllenamento.png)](Media/Video/VideoAllenamento.mp4)
+https://github.com/SimoneRinaldi02/A7-2024-ver2/assets/115701124/f99ea16d-caf9-451f-9604-99f5ff2b0960
+
+
+
+
+
