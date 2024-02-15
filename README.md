@@ -89,11 +89,15 @@ Durante l'avvio dell'applicazione, potrebbe verificarsi un problema in cui alcun
 
 Occasionalmente, anche dopo che tutti i container sono stati avviati con successo, la pagina web potrebbe visualizzare un messaggio di errore del tipo `502 Bad Gateway`. Una possibile ragione dietro questo tipo di errore potrebbe essere correlata alla rapidità con cui si tenta di accedere all'applicazione web subito dopo il riavvio dei container. In questi casi, la piattaforma potrebbe richiedere del tempo per completare il processo di avvio e stabilire la connessione corretta tra i vari componenti dell'applicazione. Attendere alcuni istanti prima di tentare di accedere all'applicazione può spesso risolvere il problema. Tuttavia, se l'errore persiste nonostante l'attesa, è consigliabile effettuare il riavvio di Docker.
 
-# Video Funzionamento Modalità "Sfida un Robot"
+\section{Video Funzionamento Applicazione Web}
+
+Di seguito riportiamo i video dimostrativi delle due modalità di gioco attualmente disponibili.
+
+## Funzionamento Modalità "Sfida un Robot"
 
 https://github.com/SimoneRinaldi02/A7-2024-ver2/assets/115701124/89f519e5-796b-4883-8826-681a0980f16e
 
-# Video Funzionamento Modalità "Allenamento"
+## Funzionamento Modalità "Allenamento"
 
 https://github.com/SimoneRinaldi02/A7-2024-ver2/assets/115701124/f99ea16d-caf9-451f-9604-99f5ff2b0960
 
