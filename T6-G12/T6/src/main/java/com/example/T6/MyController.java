@@ -237,7 +237,7 @@ public class MyController {
             System.out.println(numTurnsPlayed);
             System.out.println(userScore);
 
-            if (roboScore >= userScore) {
+            if (roboScore > userScore) {
                 gameScore = Math.round(ParseUtil.calculateScore(userScore, numTurnsPlayed + 1));
             } else {
                 gameScore = Math.round(ParseUtil.calculateScore(userScore, numTurnsPlayed + 1) + 50);
